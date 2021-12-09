@@ -1,0 +1,61 @@
+{
+  "heroes": [
+    {
+      "name": "Первый герой",
+      "description": "ыдвлоа выдлао ыдвлао",
+      "element": "water",
+      "id": "b4452a50-2043-4244-835f-26fc011767ab"
+    },
+    {
+      "name": "второй герой",
+      "description": "двлчс дчлс длясдя ябчлстя",
+      "element": "fire",
+      "id": "d908eecf-0689-49e4-a87b-6f832910344d"
+    },
+    {
+      "name": "третий герой",
+      "description": "длвмь дтчсм дыуао явльс",
+      "element": "wind",
+      "id": "28778fe4-082e-4781-b58a-7b1580688597"
+    },
+    {
+      "name": "четвертый герой",
+      "description": "ылвмотчдл лыодлмво длыовслд длвыоса длы дл длодлод ",
+      "element": "wind",
+      "id": "6f9721ca-a212-401f-9d3e-f49797f6e61c"
+    },
+    {
+      "name": "пятый герой",
+      "description": "амтчл двлм ч чдлсмо  чдлсм",
+      "element": "earth",
+      "id": "ad09c0dc-9dd7-4b5b-b9c4-fe001e847430"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Всё",
+      "color": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "color": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "color": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "color": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "color": "btn-secondary"
+    }
+  ]
+}
